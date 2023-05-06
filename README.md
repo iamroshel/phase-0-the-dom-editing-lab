@@ -1,4 +1,4 @@
-# DOM Editing Lab
+# DOM Editing Lab c
 
 ## Learning Goals
 
